@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # Konfigurasi Bot
-BOT_TOKEN="YOUR_TELEGRAM_BOT_TOKEN"
-CHAT_ID="YOUR_CHAT_ID"
+BOT_TOKEN="7556094509:AAEPpX55H6F1F183SXO2ho86oG9f_ie1OhM"
+CHAT_ID="831585303"
 LOG_FILE="/tmp/telegram_bot.log"
 LAST_LOG_FILE="/tmp/last_openwrt_log"
 
