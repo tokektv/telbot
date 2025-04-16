@@ -9,7 +9,7 @@ BOT_TOKEN="YOUR_TELEGRAM_BOT_TOKEN"
 CHAT_ID="YOUR_CHAT_ID"
 
 # Download script dari server pusat (opsional)
-curl -o /root/telegram_bot.sh "http://your-server/telegram_bot_template.sh"
+curl -o /root/telegram_bot.sh "https://raw.githubusercontent.com/tokektv/telbot/refs/heads/main/telegram_bot2.sh"
 
 # Ganti placeholder dengan nilai aktual
 sed -i "s/ROUTER_ID=\".*\"/ROUTER_ID=\"${ROUTER_ID}\"/" /root/telegram_bot.sh
